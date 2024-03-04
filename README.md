@@ -14,7 +14,7 @@ To use this template:
   - Open a new terminal using your device's shortcut;
   - Enter in ` > Select new packager files root `;
   - Select your new ` packager-files ` folder;
-  - Reload your workspace if it does not reload automactically.
+  - Reload your workspace if it does not reload automactically.<br>
 **The above instructions will setup a codespace for use with this template. You can then fork this codespace to a local project or other project host to use it there.**
 **If you are using Replit, select the [Built-In Replit Template](https://replit.com/@TobezEdu/Python-Removed-Unnecessary-Errors?v=1) instead.**
 
