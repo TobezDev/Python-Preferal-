@@ -16,7 +16,7 @@ To use this template:
   - Select your new ` packager-files ` folder;
   - Reload your workspace if it does not reload automactically.
 **The above instructions will setup a codespace for use with this template. You can then fork this codespace to a local project or other project host to use it there.**
-**If you are using Replit, select the [Built-In Replit Template](https://replit.com/@TobezEdu/Python-No-Line-Length-Warning?v=1) instead.**
+**If you are using Replit, select the [Built-In Replit Template](https://replit.com/@TobezEdu/Python-Removed-Unnecessary-Errors?v=1) instead.**
 
 ## Known Issues
 - Some instances of ` main:/github/codespace.ins ` (Github Codespaces) do not allow the user to select new packager files.
